@@ -1,0 +1,1 @@
+(def akhil 10)
